@@ -22,6 +22,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Branches would be very helpful in keeping your history organized because they would help 	 separate out changes that didn't directly affect the master branch, so that you could see 	  what changes were made on each branch separately. In general, branches help keep the 		repository from becoming convoluted, and make it easier to jump between different 		experiments and the master branch quickly and easily.
 
 How do the diagrams help you visualize the branch structure?
 
