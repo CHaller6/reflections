@@ -32,6 +32,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result of merging two branhces together is that most of the changes made in the second 		branch are added to the changes made in the first branch since the branch began. The 		commits of the second branch are essentially "folded" into the first branch. It is 		represented in the diagram the way that it is to show that the commits were once part of a 		different branch that was folded into first.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
