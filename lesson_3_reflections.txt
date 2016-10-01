@@ -28,7 +28,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    The easiest solution would be to try to learn a different source control management system, such as Subversion or Mercurial. I could also collaborate with someone else by emailing copies of files, although this would be a *far* less efficient way to collaborate and would make merging copies of work done at the same time by different developers very difficult.
 
 
 
